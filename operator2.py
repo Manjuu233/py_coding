@@ -17,4 +17,4 @@ print(lst1==lst2) #比value
 print(lst1 is lst2) #比ID
 print(lst1 is not lst2) #lst1的id和lst2的id是不相等的吗？
 print(id(lst1))
-print(id(lst2))
+print(id(lst2)) #随便看看
