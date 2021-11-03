@@ -9,3 +9,4 @@ if (amount<=50):
 else:
     total=(50*0.53)+((amount-50)*(0.53+extra))
     print("cost =","{:.2f}".format(total))
+    
